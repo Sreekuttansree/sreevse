@@ -66,7 +66,7 @@ Join on our channel to get movies ✅
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/JNS_BOTS"
+                                    '📎𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒 𝐋𝐈𝐍𝐊𝐒📎', url="https://t.me/Movie_Rockz2"
                                 )
                         ]
                     ]
